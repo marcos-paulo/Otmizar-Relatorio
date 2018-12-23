@@ -1,0 +1,1 @@
+mvn install:install-file "-Dfile=D:\Marcos\Workspaces\workspace-sts\lib\FirstApp-Preloader.jar" "-DgroupId=firstapp.preloader" "-DartifactId=FirstApp-Preloader" "-Dversion=1.0.0" "-Dpackaging=jar" "-DlocalRepositoryPath=D:\Marcos\Workspaces\workspace-sts\OtimizarRelatorio-x36\my-repo"
